@@ -1,0 +1,19 @@
+{
+  "name": "LUKI MesseCheck – Lukas Gläser",
+  "short_name": "LUKI MesseCheck",
+  "description": "Interaktive Ausbildungswelt von Lukas Gläser",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#004989",
+  "theme_color": "#004989",
+  "icons": [
+    {
+      "src": "assets/app-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
