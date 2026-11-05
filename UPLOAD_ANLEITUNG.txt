@@ -1,1 +1,0 @@
-LUKI MesseCheck V5 - Dateien und assets/ im GitHub Repository hochladen, bestehende Dateien ersetzen. Die Statistik und Bestenliste funktionieren lokal pro Browsergeraet. Passwortschutz ist nur eine lokale Sperre und kein sicherer Server-Login. Nach Upload auf iPad neu laden.
